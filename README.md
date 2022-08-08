@@ -1,4 +1,4 @@
-# Hangman Game for Shell
+# Hangman Game for Terminal
 ***
 ## Requirements
 ### **For RedHat Based OS findutils and coreutils packages need to be installed for xargs and shuf commands to work**
